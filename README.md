@@ -1,2 +1,2 @@
-# Vehicle-detection-code
-This code detects the moving vehicles in a video and according to it makes a green square on the moving vehicles
+# RoundAbout traffic light controller based on the 
+This code detects the number of vehicles in all the directions and according to it turn lights colour to red yellow and green
